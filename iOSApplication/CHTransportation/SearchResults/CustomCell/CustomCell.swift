@@ -12,6 +12,7 @@ class CustomCell: UITableViewCell {
     
     @IBOutlet weak var labelTime: UILabel!
     @IBOutlet weak var labelOccupancy: UILabel!
+    
     @IBOutlet weak var imageOccupancy1: UIImageView!
     @IBOutlet weak var imageOccupancy2: UIImageView!
     @IBOutlet weak var imageOccupancy3: UIImageView!
