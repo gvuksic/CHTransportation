@@ -13,13 +13,13 @@ Our vision of solution architecture for the platform can be seen on the followin
 ![Architecture](https://github.com/gvuksic/CHTransportation/blob/main/Images/arhitecture.png)
 
 Data flows are following:
-1 - Data is ingested into the platform from wide variety of sources, such as trains, train stations and more.
-2 - Data is processed in real-time with use of Azure Stream Analytics and Azure Functions.
-3 - For real-time use in application data is stored in Azure Comsos database.
-4 - Data is ingested into Azure Data Explorer.
-5 - Azure Data Explorer is a big data analytics store for serving near real-time analytics applications and dashboards. Data can be routed to Azure Data Explorer and Cosmos DB in parallel, or from Cosmos DB to Azure Data Explorer.
-6 - Insights from data stored in Azure Data Explorer can be gained via custom dashboard or Power BI.
-7 - Azure Data Explorer is integrated with machine learning services such as Databricks and Azure Machine Learning.
+1. Data is ingested into the platform from wide variety of sources, such as trains, train stations and more.
+2. Data is processed in real-time with use of Azure Stream Analytics and Azure Functions.
+3. For real-time use in application data is stored in Azure Comsos database.
+4. Data is ingested into Azure Data Explorer.
+5. Azure Data Explorer is a big data analytics store for serving near real-time analytics applications and dashboards. Data can be routed to Azure Data Explorer and Cosmos DB in parallel, or from Cosmos DB to Azure Data Explorer.
+6. Insights from data stored in Azure Data Explorer can be gained via custom dashboard or Power BI.
+7. Azure Data Explorer is integrated with machine learning services such as Databricks and Azure Machine Learning.
 
 
 ## What we built
