@@ -32,9 +32,13 @@ Our tech stack:
  - Web dashboard built with HTML5
  - Native iOS application written in Swift
 
-Demo of our iOS application:
+Demo (YouTube video) of our iOS application:
 
 [![iOS demo](https://img.youtube.com/vi/boBdc7TNuWk/0.jpg)](https://www.youtube.com/watch?v=boBdc7TNuWk)
+
+Web dashboard:
+
+![Dashboard](https://github.com/gvuksic/CHTransportation/blob/main/Images/dashboard-app.png)
 
 The solution can combine different data about how many people will board at each stop, and predict where they will disembark. This can be done by use of ticket purchases and metrics data provided by the trains. We can calculate how many people are onboard, compare that number with the actual vehicle capacity and calculate occupancy levels.
 
