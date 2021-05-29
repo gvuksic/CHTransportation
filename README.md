@@ -32,6 +32,10 @@ Our tech stack:
  - Web dashboard built with HTML5
  - Native iOS application written in Swift
 
+Demo of our iOS application:
+
+[![iOS demo](https://img.youtube.com/vi/boBdc7TNuWk/0.jpg)](https://www.youtube.com/watch?v=boBdc7TNuWk)
+
 
 ## Accomplishments that we are proud of
 
