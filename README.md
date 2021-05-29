@@ -10,7 +10,7 @@ Covid-19 pandemic has been highly affecting a public transport. Train operators 
 
 Our vision of solution architecture for the platform can be seen on the following picture:
 
-![Architecture](https://github.com/gvuksic/CHTransportation/blob/master/Images/architecture.png)
+![Architecture](https://github.com/gvuksic/CHTransportation/blob/main/Images/arhitecture.png)
 
 Data flows are following:
 1 - Data is ingested into the platform from wide variety of sources, such as trains, train stations and more.
