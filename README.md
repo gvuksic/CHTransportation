@@ -36,6 +36,10 @@ Demo of our iOS application:
 
 [![iOS demo](https://img.youtube.com/vi/boBdc7TNuWk/0.jpg)](https://www.youtube.com/watch?v=boBdc7TNuWk)
 
+The solution can combine different data about how many people will board at each stop, and predict where they will disembark. This can be done by use of ticket purchases and metrics data provided by the trains. We can calculate how many people are onboard, compare that number with the actual vehicle capacity and calculate occupancy levels.
+
+Passengers could easily select a train that fits their needs in any end user application with use of the API we built.
+
 
 ## Accomplishments that we are proud of
 
